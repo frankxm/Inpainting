@@ -6,3 +6,6 @@ Ce projet réalisé en python3 est l'implémentation de [cet algorithme](https:/
 
 J'utilise la librairie OpenCV et Numpy.
 
+
+## Processus de traitement 
+![Processus de traitement](images_demo/processus_inpainting.png)
